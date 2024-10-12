@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning advanced concepts in Docker, Kubernetes, and AWS.
 - 💞️ I’m looking to collaborate on backend projects using Python, Django, Flask, Node.js, and modern web technologies.
 - 📫 How to reach me: [victormwendwa804@gmail.com](mailto:victormwendwa804@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victor-mwendwa-283577202/) | [X](https://x.com/Xxiv_Victor) | [Instagram](https://www.instagram.com/xxiv_victor/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about optimizing algorithms and making software scalable!
 
 ---
