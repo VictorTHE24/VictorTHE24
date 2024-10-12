@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Victor Mwendwa (@VictorTHE24)
+# 👋 Hi, I’m Victor Mwendwa
 
 - 👀 I’m interested in Backend Software Engineering, specializing in Python and cloud technologies.
 - 🌱 I’m currently learning advanced concepts in Docker, Kubernetes, and AWS.
